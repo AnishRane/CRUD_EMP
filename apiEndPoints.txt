@@ -1,0 +1,5 @@
+/getEmployees -get
+/getEmployee/<id> -get
+/insertEmployee -POST
+/updateEmplouyee/<id> -PUT
+/delete/<id> -DELETE
